@@ -1,0 +1,37 @@
+01 - https://f489fbd5-4720-4d60-97b0-f46501f46fa7.filesusr.com/ugd/17d4ae_e4b1d0ee34ed464893a600c15d52a03f.pdf
+02 - https://f489fbd5-4720-4d60-97b0-f46501f46fa7.filesusr.com/ugd/17d4ae_81eedd241987486ba67a082536dfe8d0.pdf
+
+
+
+H1:
+s1 - I - na sala 104, na sala da direita, na quarta cadeira da terceira linha - na sala 300, na praça de cima, na primeira árvore
+s2 - F - na sala 300, na arvore azul mais proxima do lago - na sala 102 na ultima cadeira da direita de cima
+s3 - L - na sala 200, na planta de baixo a direita - na sala 101 na terceira cadeira sala da direita na terceira linha
+
+
+H2:
+s1 - O - na sala 101, na ultima cadeira de cima a esquerda - na sala 400 na cadeira de coluna 9 e linha 3
+s2 - F - na sala 202, no lixeiro - na sala 300 no segundo pinheiro azul da direita de cima (contando ao contrario)
+s3 - D - na sala 400, na cadeira da 16 coluna e 5 linha - na sala 104 no lixeiro
+s4 - M - na sala 102, na cadeira da direita da parte azul - na sala 204, na quarta linha sexta cadeira
+
+
+h3s4 - Na sala 201, na cadeira da direita proximo a entrada - na sala 200 no sofa de cima, na esquerda
+
+h4s1 - Na sala 103, na cadeira do altar - na sala 201, na ultima cadeira da mesa de baixo
+
+hxs2 - na sala 300, na arvore de baixo, no segundo praça - na sala 103, no tapete roxo
+
+
+
+Senha 1 = IFL
+
+
+Senha 2 = OFDM
+
+
+colocado historia 1 e dois - X
+colocado partes das senhas - x
+colocado pistas - x
+colocado mapa - x
+colocado video - x
