@@ -4,15 +4,15 @@
 
 
 H1:
-s1 - 
-s2 - 
-s3 - 
+s1 - R - x
+s2 - X - x
+s3 - R - x
 
 H2:
-s1 - 
-s2 - 
-s3 - 
-s4 - 
+s1 - J - x
+s2 - E - x
+s3 - B - x
+s4 - N - 
 
 
 h3s4 - 
