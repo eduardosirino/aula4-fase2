@@ -28,5 +28,6 @@ Senha 2 = JEBN
 colocado historia 1 e 2 - x
 colocado partes das senhas - x
 colocado pistas - x
-colocado mapa - 
+colocado mapa - x
 colocado video - 
+colocado questões na plataforma - x
