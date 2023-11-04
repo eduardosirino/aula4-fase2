@@ -4,20 +4,19 @@
 
 
 H1:
-s1 - R - x
-s2 - X - x
-s3 - R - x
+s1 - R - cadeira da esquerda, da mesa da esquerda, da sala falsa - 
+s2 - X - no notebook em cima do banco, na esquerda da sala inicial, proximo a casa de telhado azul - 
+s3 - R - na xicara de café, na esquerda da sala inicial, para cima das casas mais altas - 
 
 H2:
-s1 - J - x
-s2 - E - x
-s3 - B - x
-s4 - N - 
+s1 - J - atras da casa azul da sala inicial, na parte de cima - 
+s2 - E - no banco do lago da sala inicial - 
+s3 - B - na ilha sem lago, em um arbusto  de 2x2, 2 pedras e 2 arbustos - 
+s4 - N - no arbusto da direita, proximo a entrada do labirinto e ao lado de um pinheiro - 
 
 
-h3s4 - 
-h4s1 - 
-hxs2 - 
+h3s1 - V - no final do labirinto, na direita - 
+h4s3 - E - no meio do labirinto - 
 
 
 Senha 1 = RXR
