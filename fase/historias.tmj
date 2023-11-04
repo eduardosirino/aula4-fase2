@@ -403,6 +403,27 @@
                  "id":117,
                  "name":"historia 1",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/f489fbd5-4720-4d60-97b0-f46501f46fa7.filesusr.com\/ugd\/17d4ae_808ee7f61da0458da2f8570ebfcf7f59.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Aperte no espa\u00e7o para acessar a imagem"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":100
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":50,
@@ -445,6 +466,27 @@
                  "id":118,
                  "name":"historia2",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/f489fbd5-4720-4d60-97b0-f46501f46fa7.filesusr.com\/ugd\/17d4ae_e395938d4ba9473498d4d7ac56c82fdb.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Aperte no espa\u00e7o para acessar a imagem"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":100
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":50,
@@ -487,6 +529,27 @@
                  "id":119,
                  "name":"mapa",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/educoin.tech\/uploads\/mapas\/aula4-fase2\/imagens\/mapa\/mapa.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Aperte no espa\u00e7o para acessar a imagem"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":100
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":50,
