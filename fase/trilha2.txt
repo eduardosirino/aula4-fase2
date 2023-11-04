@@ -4,19 +4,19 @@
 
 
 H1:
-s1 - R - cadeira da esquerda, da mesa da esquerda, da sala falsa - 
-s2 - X - no notebook em cima do banco, na esquerda da sala inicial, proximo a casa de telhado azul - 
-s3 - R - na xicara de café, na esquerda da sala inicial, para cima das casas mais altas - 
+s1 - R - cadeira da esquerda, da mesa da esquerda, da sala falsa - atras de uma arvore grande na parte de baixo da ilha sem lago
+s2 - X - no notebook em cima do banco, na esquerda da sala inicial, proximo a casa de telhado azul - no ultimo arbusto com flores da direita em baixo
+s3 - R - na xicara de café, na esquerda da sala inicial, para cima das casas mais altas - atras de uma arvore grande, na direita em cima
 
 H2:
-s1 - J - atras da casa azul da sala inicial, na parte de cima - 
-s2 - E - no banco do lago da sala inicial - 
-s3 - B - na ilha sem lago, em um arbusto  de 2x2, 2 pedras e 2 arbustos - 
-s4 - N - no arbusto da direita, proximo a entrada do labirinto e ao lado de um pinheiro - 
+s1 - J - atras da casa azul da sala inicial, na parte de cima - no banco da esquerda, em baixo
+s2 - E - no banco do lago da sala inicial - no fim do labirinto em baixo
+s3 - B - na ilha sem lago, em um arbusto  de 2x2, 2 pedras e 2 arbustos - sem pista
+s4 - N - no arbusto da direita, proximo a entrada do labirinto e ao lado de um pinheiro - na sala falsa, na escrivaninha
 
 
-h3s1 - V - no final do labirinto, na direita - 
-h4s3 - E - no meio do labirinto - 
+h3s1 - V - no final do labirinto, na direita - arbusto com frutas proximo ao video inicial
+h4s3 - E - no meio do labirinto - em um arbusto proximo ao video inicial
 
 
 Senha 1 = RXR
@@ -25,8 +25,8 @@ Senha 1 = RXR
 Senha 2 = JEBN
 
 
-colocado historia 1 e dois - 
-colocado partes das senhas - 
-colocado pistas - 
+colocado historia 1 e 2 - x
+colocado partes das senhas - x
+colocado pistas - x
 colocado mapa - 
 colocado video - 
